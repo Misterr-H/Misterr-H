@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-[![@misterh's Holopin board](https://holopin.io/api/user/board?user=mister)](https://holopin.io/@misterh)
+[![@misterh's Holopin board](https://holopin.io/api/user/board?user=misterh)](https://holopin.io/@misterh)
 
 - 👨‍💻 All of my projects are available at [https://himanshu-82170.web.app/](https://himanshu-82170.web.app/)
 
