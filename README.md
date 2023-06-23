@@ -21,6 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/himanshu--saini/">Visit my LinkedIn profile</a>
+  <a href="https://twitter.com/Himanshu_Saiini">Visit my Twitter profile</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
