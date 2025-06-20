@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Himanshu Saini aka Mister H</h1>
-<h3 align="center">Your friendly neighbourhood full stack developer</h3>
+<h1 align="center">Himanshu Saini</h1>
+<h3 align="center">Cracked Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=misterr-h&label=Profile%20views&color=0e75b6&style=flat" alt="misterr-h" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@hs913271](https://medium.com/@hs913271)
 
-- 💬 Ask me about **flutter, react, nodejs, nextjs, javascript, java, oops, dsa**
+- 💬 Ask me about **Langchain, Langgraph, MCPs, AGIs**
 
 - 📫 How to reach me **hs913271@gmail.com**
 
